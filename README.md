@@ -1,11 +1,10 @@
 <div align="center">
-
+     
 # 🌠 Humans to Mars 
 
 <img src="mars.gif" 
      width="100%" 
      alt="Mars Animation Banner"/>
-
 
 
 > *"Mars is there, waiting to be reached"* - Buzz Aldrin
